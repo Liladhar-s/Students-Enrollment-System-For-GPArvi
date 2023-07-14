@@ -11,7 +11,7 @@ To help university administrators simplify & automate the online admission proce
 
 ### Demo 
 
-- [https://ci-capstone.lloricode.com](https://ci-capstone.lloricode.com/)
+- [Mailto:Liladharsukhdeve17@gmail.com)
 
 ## Frameworks used
 | Platform           | Framework                                                       |
