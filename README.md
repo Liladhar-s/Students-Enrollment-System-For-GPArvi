@@ -1,0 +1,2 @@
+# Students-Enrollment-System-For-GPArvi
+The online admissions &amp; student enrollment process in universities is quite tedious in terms of managing &amp; analyzing inquiries, planning strategies about marketing, and creating &amp; handling student records. Verifying student data &amp; creating merit list as per pre-defined criteria for various admission rounds as per the availability of the seats.
